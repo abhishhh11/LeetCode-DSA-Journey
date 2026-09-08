@@ -15,4 +15,5 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
+| [3870-count-commas-in-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
