@@ -35,6 +35,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
@@ -42,6 +43,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
@@ -49,6 +51,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
@@ -69,4 +72,8 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
