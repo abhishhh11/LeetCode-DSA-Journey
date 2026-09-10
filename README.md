@@ -31,4 +31,20 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
