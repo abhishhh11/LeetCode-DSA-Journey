@@ -8,10 +8,12 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +86,8 @@ Auto-synced DSA solutions using Syncode
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
