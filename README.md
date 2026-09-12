@@ -48,6 +48,7 @@ Auto-synced DSA solutions using Syncode
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Auto-synced DSA solutions using Syncode
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
