@@ -11,15 +11,41 @@
  */
 class Solution {
 public:
-    void inOrder(TreeNode* root, vector<int> &in) {
-        if(root == NULL) return ;
-        inOrder(root->left, in);
-        in.push_back(root->val);
-        inOrder(root->right, in);
-    }
+// RECURSIVE METHOD
+
+    // void inOrder(TreeNode* root, vector<int> &in) {
+    //     if(root == NULL) return ;
+    //     inOrder(root->left, in);
+    //     in.push_back(root->val);
+    //     inOrder(root->right, in);
+    // }
+    // vector<int> inorderTraversal(TreeNode* root) {
+    //     vector<int> in;
+    //     inOrder(root, in);
+    //     return in;
+    // }
+
+// ITERATIVE METHOD
+
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> in;
-        inOrder(root, in);
-        return in;
+        vector<int> ans;
+        if(root == NULL) return ans;
+        
+        stack<TreeNode*> st;
+        TreeNode* node = root;
+        //st.push(root);
+        while(st.size() != 0 || node != NULL ) {
+            if( node != NULL) {
+                st.push(node);
+                node = node->left;
+            }
+            else { // Now node is null
+                TreeNode* temp = st.top();
+                st.pop();
+                ans.push_back(temp->val);
+                node = temp->right;
+            }
+        }
+        return ans;
     }
 };
