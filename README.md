@@ -7,12 +7,14 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
@@ -39,6 +41,7 @@ Auto-synced DSA solutions using Syncode
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -62,6 +65,7 @@ Auto-synced DSA solutions using Syncode
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -97,4 +101,8 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
