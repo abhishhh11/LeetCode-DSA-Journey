@@ -52,6 +52,7 @@ Auto-synced DSA solutions using Syncode
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -86,6 +87,7 @@ Auto-synced DSA solutions using Syncode
 | [0226-invert-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -132,6 +134,7 @@ Auto-synced DSA solutions using Syncode
 | [0098-validate-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
