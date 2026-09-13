@@ -10,7 +10,7 @@ public:
     }
     bool isValidBST(TreeNode* root) {
         if(root == NULL) return true;
-        else if(root->left == NULL && root->right == NULL) return true;
+        //else if(root->left == NULL && root->right == NULL) return true;
         else if((long long) (root->val) <= maxTree(root->left)) return false;
         else if((long long) (root->val) >= minTree(root->right)) return false;
         else return isValidBST(root->left) && isValidBST(root->right) ;
