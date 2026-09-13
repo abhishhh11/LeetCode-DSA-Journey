@@ -31,9 +31,13 @@ public:
             }
 // Case 3: delete a node having two child nodes
             if(root->left != NULL && root->right != NULL) {
-                TreeNode* pred = iop(root);
-                root->val = pred->val;
-                root->left = deleteNode(root->left, pred->val);
+                // TreeNode* pred = iop(root);
+                // root->val = pred->val;
+                // root->left = deleteNode(root->left, pred->val);
+                    //    OR
+                TreeNode* succ = ios(root);
+                root->val = succ->val;
+                root->right = deleteNode(root->right, succ->val);
             }
         }    
         else if(root->val > key) {// go left
