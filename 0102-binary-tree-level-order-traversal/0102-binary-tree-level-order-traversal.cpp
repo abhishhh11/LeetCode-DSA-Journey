@@ -9,6 +9,7 @@ public:
         if(root == NULL) return ;
         if(curr == level) {
             lev.push_back(root->val);
+            return ;
         }
         helper(root->left, lev, curr+1, level);
         helper(root->right, lev, curr+1, level);
