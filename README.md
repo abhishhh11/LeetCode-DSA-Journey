@@ -8,6 +8,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
@@ -43,6 +44,7 @@ Auto-synced DSA solutions using Syncode
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -75,6 +77,7 @@ Auto-synced DSA solutions using Syncode
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -118,10 +121,12 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
