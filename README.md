@@ -28,6 +28,7 @@ Auto-synced DSA solutions using Syncode
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -46,6 +47,7 @@ Auto-synced DSA solutions using Syncode
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -64,6 +66,7 @@ Auto-synced DSA solutions using Syncode
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -81,6 +84,7 @@ Auto-synced DSA solutions using Syncode
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -116,6 +120,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
