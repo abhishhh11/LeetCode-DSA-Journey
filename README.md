@@ -19,6 +19,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -116,6 +117,7 @@ Auto-synced DSA solutions using Syncode
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Backtracking
@@ -167,4 +169,8 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
