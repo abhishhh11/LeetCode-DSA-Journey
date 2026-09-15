@@ -14,15 +14,13 @@ public:
         int count=0;
         unordered_map<int,int> m;
         for(int i=0;i<n;i++) {
-           nums[i] = (nums[i] - rev(nums[i]));
-        }
-        for(int i=0;i<n;i++) {
-            if(m.find(nums[i]) != m.end()) {
+           int x = nums[i] - rev(nums[i]);
+            if(m.find(x) != m.end()) {
                 count = count%1000000007;
-                count += m[nums[i]];
-                m[nums[i]]++;
+                count += m[x];
+                m[x]++;
             }
-            else m[nums[i]]++;
+            else m[x]++;
         }
         return count%1000000007;
     }
