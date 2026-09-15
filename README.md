@@ -17,6 +17,7 @@ Auto-synced DSA solutions using Syncode
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Auto-synced DSA solutions using Syncode
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -184,8 +186,10 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
