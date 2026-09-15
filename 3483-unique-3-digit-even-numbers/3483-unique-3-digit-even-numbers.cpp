@@ -2,14 +2,15 @@ class Solution {
 public:
     int totalNumbers(vector<int>& nums) {
         int n = nums.size();
-        //vector<int> ans;
+        unordered_map<int,int> m;
         int cnt = 0;
-        unordered_map<int, int> m;
-        for(auto ele : nums) m[ele]++;
-        for(int i=100;i<999;i+=2) {
-            int x =i;
+        for(auto ele : nums) {
+            m[ele]++;
+        }
+        for(int i = 100;i<999;i+=2) {
+            int x = i;
             int a = x%10;
-            x = x/10;
+            x /= 10;
             int b = x%10;
             x /= 10;
             int c = x;
@@ -19,7 +20,6 @@ public:
                 if(m.find(b) != m.end()) {
                     m[b]--;
                     if(m[b] == 0) m.erase(b);
-                    //m[b]++;
                     if(m.find(c) != m.end()) cnt++;
                     m[b]++;
                 }
