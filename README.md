@@ -10,6 +10,7 @@ Auto-synced DSA solutions using Syncode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -27,6 +28,7 @@ Auto-synced DSA solutions using Syncode
 | [0001-two-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -149,6 +151,7 @@ Auto-synced DSA solutions using Syncode
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -158,6 +161,7 @@ Auto-synced DSA solutions using Syncode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +194,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -209,8 +214,14 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
