@@ -14,6 +14,7 @@ Auto-synced DSA solutions using Syncode
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,6 +43,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -163,6 +165,7 @@ Auto-synced DSA solutions using Syncode
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Auto-synced DSA solutions using Syncode
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -219,11 +223,13 @@ Auto-synced DSA solutions using Syncode
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -236,4 +242,12 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
