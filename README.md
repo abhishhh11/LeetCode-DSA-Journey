@@ -15,6 +15,7 @@ Auto-synced DSA solutions using Syncode
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -209,6 +210,7 @@ Auto-synced DSA solutions using Syncode
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
@@ -252,6 +254,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +276,11 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
