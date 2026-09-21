@@ -53,6 +53,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -228,6 +229,7 @@ Auto-synced DSA solutions using Syncode
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -297,4 +299,12 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
