@@ -148,6 +148,7 @@ Auto-synced DSA solutions using Syncode
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Backtracking
@@ -235,6 +236,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
