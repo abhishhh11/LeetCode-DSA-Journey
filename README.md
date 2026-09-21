@@ -36,6 +36,7 @@ Auto-synced DSA solutions using Syncode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -146,6 +147,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Backtracking
@@ -164,6 +166,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
