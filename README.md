@@ -12,6 +12,7 @@ Auto-synced DSA solutions using Syncode
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
@@ -40,6 +41,7 @@ Auto-synced DSA solutions using Syncode
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
