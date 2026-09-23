@@ -11,7 +11,8 @@ public:
     int ftd(vector<int> arr, int i) {// function of top down approach of dp
         if(i == arr.size()-1) return arr[i]; // single house remaining 
         if(i == arr.size()-2) return max(arr[i], arr[i+1]); // 2 house remaining
-        if(dp[i] != -1) return dp[i]; // ith value of dp is not computed yet
+        if(dp[i] != -1) return dp[i]; // ith value of dp is already been computed just reuse it
+//ith index is not computed yet 
         return dp[i] = max(arr[i] + ftd(arr, i+2), 0 + ftd(arr, i+1));
     }
 
