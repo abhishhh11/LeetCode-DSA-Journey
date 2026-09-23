@@ -60,6 +60,7 @@ Auto-synced DSA solutions using Syncode
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -282,6 +283,7 @@ Auto-synced DSA solutions using Syncode
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
