@@ -60,6 +60,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
+| [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
@@ -325,4 +326,24 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
