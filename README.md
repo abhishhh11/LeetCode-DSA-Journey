@@ -47,6 +47,7 @@ Auto-synced DSA solutions using Syncode
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -164,6 +165,7 @@ Auto-synced DSA solutions using Syncode
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
