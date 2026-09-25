@@ -62,6 +62,7 @@ Auto-synced DSA solutions using Syncode
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
 | [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
