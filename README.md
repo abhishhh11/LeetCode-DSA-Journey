@@ -32,6 +32,7 @@ Auto-synced DSA solutions using Syncode
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -170,6 +171,7 @@ Auto-synced DSA solutions using Syncode
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
+| [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Backtracking
 |  |
