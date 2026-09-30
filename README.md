@@ -65,6 +65,7 @@ Auto-synced DSA solutions using Syncode
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Auto-synced DSA solutions using Syncode
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
 | ------- |
