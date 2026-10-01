@@ -38,6 +38,7 @@ Auto-synced DSA solutions using Syncode
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -64,6 +65,7 @@ Auto-synced DSA solutions using Syncode
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -83,6 +85,7 @@ Auto-synced DSA solutions using Syncode
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3870-count-commas-in-range) |
