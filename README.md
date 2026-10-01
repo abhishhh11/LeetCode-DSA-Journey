@@ -45,6 +45,7 @@ Auto-synced DSA solutions using Syncode
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Auto-synced DSA solutions using Syncode
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
 ## Sorting
 |  |
 | ------- |
