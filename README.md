@@ -67,6 +67,7 @@ Auto-synced DSA solutions using Syncode
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -188,6 +189,7 @@ Auto-synced DSA solutions using Syncode
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
@@ -211,6 +213,7 @@ Auto-synced DSA solutions using Syncode
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
