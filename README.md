@@ -176,6 +176,7 @@ Auto-synced DSA solutions using Syncode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
@@ -195,6 +196,7 @@ Auto-synced DSA solutions using Syncode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
@@ -380,4 +382,8 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
