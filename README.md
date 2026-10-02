@@ -38,6 +38,7 @@ Auto-synced DSA solutions using Syncode
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -243,6 +244,7 @@ Auto-synced DSA solutions using Syncode
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -278,6 +280,7 @@ Auto-synced DSA solutions using Syncode
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -321,6 +324,7 @@ Auto-synced DSA solutions using Syncode
 | [0295-find-median-from-data-stream](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
