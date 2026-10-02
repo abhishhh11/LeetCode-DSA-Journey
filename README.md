@@ -32,6 +32,7 @@ Auto-synced DSA solutions using Syncode
 | [1920-build-array-from-permutation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
@@ -279,6 +280,7 @@ Auto-synced DSA solutions using Syncode
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -351,6 +353,7 @@ Auto-synced DSA solutions using Syncode
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 ## Timsort
 |  |
@@ -396,6 +399,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
