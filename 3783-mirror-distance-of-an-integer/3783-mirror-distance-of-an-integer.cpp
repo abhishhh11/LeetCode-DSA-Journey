@@ -4,10 +4,11 @@ public:
         int x=n;
         int rev = 0;
         while(x>0) {
-            int a = x%10;
-            rev = rev*10 + a;
+            //int a = x%10;
+            rev = rev*10 + x%10;
             x = x/10;
         }
         return abs(n-rev);
+        //return abs(n - reverse(n));
     }
 };
