@@ -95,6 +95,7 @@ Auto-synced DSA solutions using Syncode
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3783-mirror-distance-of-an-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3870-count-commas-in-range) |
 ## Linked List
 |  |
