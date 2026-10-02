@@ -185,6 +185,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
@@ -201,6 +202,7 @@ Auto-synced DSA solutions using Syncode
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -353,6 +355,7 @@ Auto-synced DSA solutions using Syncode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -397,4 +400,5 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
