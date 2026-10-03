@@ -13,6 +13,7 @@ Auto-synced DSA solutions using Syncode
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -276,6 +277,7 @@ Auto-synced DSA solutions using Syncode
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
@@ -354,6 +356,7 @@ Auto-synced DSA solutions using Syncode
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
@@ -404,6 +407,7 @@ Auto-synced DSA solutions using Syncode
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
