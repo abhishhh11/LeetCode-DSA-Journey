@@ -52,6 +52,7 @@ Auto-synced DSA solutions using Syncode
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Auto-synced DSA solutions using Syncode
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
@@ -274,6 +276,7 @@ Auto-synced DSA solutions using Syncode
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
