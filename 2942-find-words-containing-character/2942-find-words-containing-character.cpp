@@ -12,15 +12,29 @@ public:
         //     }
         // }
 
-        for(int i=0;i<words.size();i++) {
-            for(int j=0;j<words[i].length();j++) {
-                if(words[i][j] == x) {
-                    ans.push_back(i);
+        // for(int i=0;i<words.size();i++) {
+        //     for(int j=0;j<words[i].length();j++) {
+        //         if(words[i][j] == x) {
+        //             ans.push_back(i);
+        //             break;
+        //         }
+        //     }
+        // }
+
+        // return ans;
+
+        vector<int> result;
+        int n = words.size();
+        for( int i = 0 ; i <n; i++){
+            int m = words[i].size();
+            for(int j = 0; j<m; j++){
+                if(words[i][j]==x){
+                    result.push_back(i);
                     break;
                 }
+
             }
         }
-
-        return ans;
+        return result;
     }
 };
