@@ -32,6 +32,7 @@ Auto-synced DSA solutions using Syncode
 | [1672-richest-customer-wealth](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1816-truncate-sentence](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
@@ -208,6 +209,7 @@ Auto-synced DSA solutions using Syncode
 | [0771-jewels-and-stones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
+| [1816-truncate-sentence](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
