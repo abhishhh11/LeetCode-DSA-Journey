@@ -28,6 +28,7 @@ Auto-synced DSA solutions using Syncode
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
