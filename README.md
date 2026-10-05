@@ -38,6 +38,7 @@ Auto-synced DSA solutions using Syncode
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
@@ -275,6 +276,7 @@ Auto-synced DSA solutions using Syncode
 | [1920-build-array-from-permutation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
@@ -344,6 +346,7 @@ Auto-synced DSA solutions using Syncode
 | [0295-find-median-from-data-stream](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
