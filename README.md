@@ -28,6 +28,7 @@ Auto-synced DSA solutions using Syncode
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1331-rank-transform-of-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
@@ -73,6 +74,7 @@ Auto-synced DSA solutions using Syncode
 | [0771-jewels-and-stones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -302,6 +304,7 @@ Auto-synced DSA solutions using Syncode
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
