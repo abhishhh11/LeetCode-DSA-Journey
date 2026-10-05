@@ -202,6 +202,7 @@ Auto-synced DSA solutions using Syncode
 | [0242-valid-anagram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
+| [0709-to-lower-case](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
