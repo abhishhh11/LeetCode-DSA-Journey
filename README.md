@@ -62,6 +62,7 @@ Auto-synced DSA solutions using Syncode
 | [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Auto-synced DSA solutions using Syncode
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Auto-synced DSA solutions using Syncode
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +296,7 @@ Auto-synced DSA solutions using Syncode
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +318,7 @@ Auto-synced DSA solutions using Syncode
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Recursion
 |  |
 | ------- |
@@ -342,6 +347,7 @@ Auto-synced DSA solutions using Syncode
 | [1046-last-stone-weight](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1046-last-stone-weight) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quickselect
 |  |
 | ------- |
@@ -457,4 +463,8 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
