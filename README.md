@@ -61,6 +61,7 @@ Auto-synced DSA solutions using Syncode
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Auto-synced DSA solutions using Syncode
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Math
 |  |
 | ------- |
