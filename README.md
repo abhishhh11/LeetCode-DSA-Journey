@@ -44,6 +44,7 @@ Auto-synced DSA solutions using Syncode
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2549-count-distinct-numbers-on-board](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -86,6 +87,7 @@ Auto-synced DSA solutions using Syncode
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2549-count-distinct-numbers-on-board](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -323,6 +325,7 @@ Auto-synced DSA solutions using Syncode
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -372,6 +375,7 @@ Auto-synced DSA solutions using Syncode
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
