@@ -417,6 +417,7 @@ Auto-synced DSA solutions using Syncode
 | [0022-generate-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
@@ -480,6 +481,7 @@ Auto-synced DSA solutions using Syncode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Ordered Set
 |  |
