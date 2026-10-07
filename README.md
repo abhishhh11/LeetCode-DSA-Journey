@@ -18,6 +18,7 @@ Auto-synced DSA solutions using Syncode
 | [0575-distribute-candies](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
@@ -385,6 +386,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
 ## Geometry
 |  |
