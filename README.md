@@ -111,6 +111,7 @@ Auto-synced DSA solutions using Syncode
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -418,6 +419,7 @@ Auto-synced DSA solutions using Syncode
 | [0198-house-robber](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Memoization
@@ -433,6 +435,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -441,6 +444,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -449,6 +453,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
 | ------- |
