@@ -13,6 +13,7 @@ Auto-synced DSA solutions using Syncode
 | [0198-house-robber](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0575-distribute-candies) |
