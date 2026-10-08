@@ -229,6 +229,7 @@ Auto-synced DSA solutions using Syncode
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
 | [1816-truncate-sentence](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
