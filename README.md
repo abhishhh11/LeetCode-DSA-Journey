@@ -119,6 +119,7 @@ Auto-synced DSA solutions using Syncode
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -230,6 +231,7 @@ Auto-synced DSA solutions using Syncode
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2942-find-words-containing-character) |
@@ -388,6 +390,7 @@ Auto-synced DSA solutions using Syncode
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Geometry
 |  |
 | ------- |
