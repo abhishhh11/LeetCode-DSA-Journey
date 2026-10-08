@@ -227,6 +227,7 @@ Auto-synced DSA solutions using Syncode
 | [0709-to-lower-case](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1446-consecutive-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1446-consecutive-characters) |
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
 | [1816-truncate-sentence](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
