@@ -127,6 +127,7 @@ Auto-synced DSA solutions using Syncode
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2169-count-operations-to-obtain-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -431,6 +432,7 @@ Auto-synced DSA solutions using Syncode
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 ## Timsort
 |  |
