@@ -37,6 +37,7 @@ Auto-synced DSA solutions using Syncode
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1816-truncate-sentence](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1816-truncate-sentence) |
@@ -87,6 +88,7 @@ Auto-synced DSA solutions using Syncode
 | [1207-unique-number-of-occurrences](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -232,6 +234,7 @@ Auto-synced DSA solutions using Syncode
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1446-consecutive-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1446-consecutive-characters) |
 | [1496-path-crossing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1496-path-crossing) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -264,6 +267,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0383-ransom-note) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
@@ -499,6 +503,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0338-counting-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Ordered Set
 |  |
