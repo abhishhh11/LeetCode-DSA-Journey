@@ -9,6 +9,7 @@ public:
                 ans++;
                 md--;
             }
+            else if(md == 0) return target + ans - 1;
             else {
                 target -= 1;
                 ans++;
