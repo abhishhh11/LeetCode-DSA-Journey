@@ -113,6 +113,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0728-self-dividing-numbers) |
@@ -437,6 +438,7 @@ Auto-synced DSA solutions using Syncode
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -447,6 +449,7 @@ Auto-synced DSA solutions using Syncode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
