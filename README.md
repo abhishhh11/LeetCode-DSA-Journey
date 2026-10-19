@@ -123,6 +123,7 @@ Auto-synced DSA solutions using Syncode
 | [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -508,6 +509,7 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0338-counting-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Ordered Set
