@@ -6,9 +6,9 @@ public:
             st.insert(all[i]);
         }
         int cnt = 0;
-        bool flag = true;
+        
         for(int i=0;i<w.size();i++) {
-            flag = true;
+            bool flag = true;
             for(int j=0;j<w[i].length();j++) {
                 if(st.find(w[i][j]) == st.end()) {
                     flag = false;
