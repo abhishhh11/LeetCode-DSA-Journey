@@ -243,6 +243,7 @@ Auto-synced DSA solutions using Syncode
 | [2942-find-words-containing-character](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -391,6 +392,7 @@ Auto-synced DSA solutions using Syncode
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
