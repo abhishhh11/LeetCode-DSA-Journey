@@ -146,6 +146,7 @@ Auto-synced DSA solutions using Syncode
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3894-traffic-signal-color) |
 ## Linked List
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Auto-synced DSA solutions using Syncode
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3894-traffic-signal-color) |
 ## Backtracking
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Auto-synced DSA solutions using Syncode
 | [2974-minimum-number-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3894-traffic-signal-color) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
