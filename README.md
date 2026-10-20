@@ -124,6 +124,7 @@ Auto-synced DSA solutions using Syncode
 | [1025-divisor-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
@@ -433,6 +434,7 @@ Auto-synced DSA solutions using Syncode
 | [0781-rabbits-in-forest](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1323-maximum-69-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2139-minimum-moves-to-reach-target-score) |
