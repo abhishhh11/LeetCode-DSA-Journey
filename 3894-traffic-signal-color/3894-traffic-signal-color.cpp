@@ -1,11 +1,9 @@
 class Solution {
 public:
     string trafficSignal(int timer) {
-        string ans;
-        if(timer == 0) ans = "Green";
-        else if(timer == 30) ans = "Orange";
-        else if(timer > 30 && timer <= 90) ans = "Red";
-        else ans = "Invalid";
-        return ans;
+        if(timer == 0) return "Green";
+        else if(timer == 30) return "Orange";
+        else if(timer > 30 && timer <= 90) return "Red";
+        else return "Invalid";
     }
 };
