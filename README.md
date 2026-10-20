@@ -130,6 +130,7 @@ Auto-synced DSA solutions using Syncode
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1688-count-of-matches-in-tournament) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1952-three-divisors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2169-count-operations-to-obtain-zero) |
@@ -368,6 +369,7 @@ Auto-synced DSA solutions using Syncode
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -528,6 +530,7 @@ Auto-synced DSA solutions using Syncode
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -537,4 +540,12 @@ Auto-synced DSA solutions using Syncode
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
