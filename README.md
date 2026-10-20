@@ -132,6 +132,7 @@ Auto-synced DSA solutions using Syncode
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1952-three-divisors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2119-a-number-after-a-double-reversal) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2169-count-operations-to-obtain-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
