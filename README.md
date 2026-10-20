@@ -94,6 +94,7 @@ Auto-synced DSA solutions using Syncode
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2549-count-distinct-numbers-on-board](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2549-count-distinct-numbers-on-board) |
@@ -245,6 +246,7 @@ Auto-synced DSA solutions using Syncode
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2678-number-of-senior-citizens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2942-find-words-containing-character) |
@@ -275,6 +277,7 @@ Auto-synced DSA solutions using Syncode
 | [1814-count-nice-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2182-construct-string-with-repeat-limit](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2182-construct-string-with-repeat-limit) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/4065-rearrange-array-by-removing-distinct-values) |
