@@ -647,23 +647,25 @@
     "solved": 118
   },
   "syncedProblems": {
-    "LeetCode_A_Number_After_a_Double_Reversal": true
+    "LeetCode_A_Number_After_a_Double_Reversal": true,
+    "LeetCode_Find_the_Pivot_Integer": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 0
   },
   "todayProblems": [
-    "A Number After a Double Reversal"
+    "A Number After a Double Reversal",
+    "Find the Pivot Integer"
   ],
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-10-21",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-10-21": 1
+    "2026-10-21": 2
   }
 }
