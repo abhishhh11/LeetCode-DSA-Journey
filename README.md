@@ -10,8 +10,13 @@
 | ------- |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
+| [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
+## Simulation
+|  |
+| ------- |
+| [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 <!---LeetCode Topics End-->
