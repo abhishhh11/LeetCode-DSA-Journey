@@ -24,9 +24,18 @@
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 ## String
 |  |
 | ------- |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
+## Array
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
