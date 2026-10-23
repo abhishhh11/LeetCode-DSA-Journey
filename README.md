@@ -21,4 +21,12 @@
 | ------- |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+## Hash Table
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
+## String
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->
