@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
@@ -39,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -62,5 +64,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
