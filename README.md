@@ -87,3 +87,4 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
+| 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
