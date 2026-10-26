@@ -10,6 +10,7 @@
 | ------- |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -88,6 +89,10 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->
 | 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
