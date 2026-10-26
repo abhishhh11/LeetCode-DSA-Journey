@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -20,6 +21,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Hash Table
