@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
@@ -22,6 +23,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
