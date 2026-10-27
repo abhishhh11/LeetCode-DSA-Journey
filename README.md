@@ -67,6 +67,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0688-knight-probability-in-chessboard](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0688-knight-probability-in-chessboard) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Bit Manipulation
 |  |
