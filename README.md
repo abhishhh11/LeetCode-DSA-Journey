@@ -16,6 +16,7 @@
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0688-knight-probability-in-chessboard](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0688-knight-probability-in-chessboard) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
