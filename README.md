@@ -59,6 +59,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0503-next-greater-element-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -139,6 +140,14 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
 | 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
