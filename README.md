@@ -11,6 +11,7 @@
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1492-the-kth-factor-of-n) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1837-sum-of-digits-in-base-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1837-sum-of-digits-in-base-k) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
