@@ -5,7 +5,8 @@ public:
         for(int i=0;i<nums.size();i++) {
             int x = nums[i];
             while(x>0) {
-                if(x%10 == digit) ans++;
+                int y = x%10;
+                if(y == digit) ans++;
                 x = x/10;
             }
         }
