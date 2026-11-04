@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int countPartitions(vector<int>& nums) {
-        int ans = 0;
-        vector<int> pre;
-        vector<int> suf(nums.size(),-1);
-        int i = 0;
-        int j = nums.size()-1;
-        int sump = 0;
-        int sums = 0;
-        for(int i=0;i<nums.size();i++) {
-            sump += nums[i];
-            sums += nums[j];
-            pre.push_back(sump);
-            suf[j] = sums;
-            j--;
-        }
-        for(int i=0;i<nums.size()-1;i++) {
-            if((pre[i] - suf[i+1])%2 == 0) ans++;
-        }
-        return ans;
-    }
+    //int countPartitions(vector<int>& nums) {
+    //     int ans = 0;
+    //     vector<int> pre;
+    //     vector<int> suf(nums.size(),-1);
+    //     int i = 0;
+    //     int j = nums.size()-1;
+    //     int sump = 0;
+    //     int sums = 0;
+    //     for(int i=0;i<nums.size();i++) {
+    //         sump += nums[i];
+    //         sums += nums[j];
+    //         pre.push_back(sump);
+    //         suf[j] = sums;
+    //         j--;
+    //     }
+    //     for(int i=0;i<nums.size()-1;i++) {
+    //         if((pre[i] - suf[i+1])%2 == 0) ans++;
+    //     }
+    //     return ans;
+    // }
 
     // int countPartitions(vector<int>& nums) {
     //     int ans = 0;
@@ -38,4 +38,13 @@ public:
     //     }
     //     return ans;
     // }
+
+    int countPartitions(vector<int>& nums) {
+        int totalsum = 0;
+        for(int i=0;i<nums.size();i++) {
+            totalsum += nums[i];
+        }
+        if(totalsum%2 == 0) return nums.size()-1;
+        else return 0;
+    }
 };
