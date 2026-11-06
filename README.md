@@ -11,6 +11,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1492-the-kth-factor-of-n) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1837-sum-of-digits-in-base-k) |
@@ -72,6 +73,7 @@
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -119,10 +121,12 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Zero-Sum Game
 |  |
 | ------- |
