@@ -19,6 +19,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2427-number-of-common-factors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -136,6 +137,7 @@
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2427-number-of-common-factors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Sliding Window
 |  |
 | ------- |
