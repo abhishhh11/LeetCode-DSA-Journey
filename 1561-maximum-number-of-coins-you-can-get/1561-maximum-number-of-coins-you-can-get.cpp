@@ -16,17 +16,25 @@ public:
 
         //Using max heap
 
+        // int n = piles.size();
+        // priority_queue<int> pq(piles.begin(), piles.end());
+        // int ans = 0;
+        // int cnt = 0;
+        // int j = piles.size()-1;
+        // while(cnt <= n/3) {
+        //     pq.pop();
+        //     ans += pq.top();
+        //     pq.pop();
+        //     cnt++;
+        //     if(cnt == n/3) return ans;
+        // }
+        // return ans;
+
         int n = piles.size();
-        priority_queue<int> pq(piles.begin(), piles.end());
+        sort(piles.begin(), piles.end());
         int ans = 0;
-        int cnt = 0;
-        int j = piles.size()-1;
-        while(cnt <= n/3) {
-            pq.pop();
-            ans += pq.top();
-            pq.pop();
-            cnt++;
-            if(cnt == n/3) return ans;
+        for(int i=n/3;i<n;i+=2) {
+            ans += piles[i];
         }
         return ans;
     }
