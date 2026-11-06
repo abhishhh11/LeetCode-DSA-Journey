@@ -17,10 +17,7 @@ public:
         //Using max heap
 
         int n = piles.size();
-        priority_queue<int> pq;
-        for(int i=0;i<piles.size();i++) {
-            pq.push(piles[i]);
-        }
+        priority_queue<int> pq(piles.begin(), piles.end());
         int ans = 0;
         int cnt = 0;
         int j = piles.size()-1;
