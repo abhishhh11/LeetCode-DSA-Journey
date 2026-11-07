@@ -84,7 +84,6 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3895-count-digit-appearances) |
-| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -115,7 +114,6 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
-| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,3 +189,4 @@
 | 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
 | 5 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 07:30 pm |
+| 6 | [Minimum Swaps to Move Zeros to End](./LeetCode/Easy/Minimum%20Swaps%20to%20Move%20Zeros%20to%20End) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | Easy | 07 Nov 2026 | 11:02 pm |
