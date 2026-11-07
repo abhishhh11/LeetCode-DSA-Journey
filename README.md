@@ -84,6 +84,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3895-count-digit-appearances) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
