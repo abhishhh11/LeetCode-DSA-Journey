@@ -48,6 +48,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
@@ -79,6 +80,7 @@
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String Matching
 |  |
@@ -147,6 +150,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 ## Number Theory
 |  |
 | ------- |
