@@ -48,7 +48,6 @@
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
-| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
@@ -80,7 +79,6 @@
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
-| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -104,7 +102,6 @@
 |  |
 | ------- |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
-| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String Matching
 |  |
@@ -150,7 +147,6 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
-| [2206-divide-array-into-equal-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2206-divide-array-into-equal-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -194,3 +190,4 @@
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
 | 5 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 07:30 pm |
 | 6 | [Minimum Swaps to Move Zeros to End](./LeetCode/Easy/Minimum%20Swaps%20to%20Move%20Zeros%20to%20End) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | Easy | 07 Nov 2026 | 11:02 pm |
+| 7 | [Divide Array Into Equal Pairs](./LeetCode/Easy/Divide%20Array%20Into%20Equal%20Pairs) | [LeetCode](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | 08 Nov 2026 | 05:41 pm |
