@@ -194,3 +194,4 @@
 | 5 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 03 Nov 2026 | 07:30 pm |
 | 6 | [Minimum Swaps to Move Zeros to End](./LeetCode/Easy/Minimum%20Swaps%20to%20Move%20Zeros%20to%20End) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | Easy | 07 Nov 2026 | 11:02 pm |
 | 7 | [Divide Array Into Equal Pairs](./LeetCode/Easy/Divide%20Array%20Into%20Equal%20Pairs) | [LeetCode](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | 08 Nov 2026 | 05:41 pm |
+| 8 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 09 Nov 2026 | 10:54 pm |
