@@ -25,6 +25,7 @@
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3895-count-digit-appearances](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
@@ -135,6 +136,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
 | ------- |
