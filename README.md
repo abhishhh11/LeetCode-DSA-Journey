@@ -87,6 +87,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3895-count-digit-appearances) |
 ## Pigeonhole Principle
