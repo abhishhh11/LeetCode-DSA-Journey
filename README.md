@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1227-airplane-seat-assignment-probability) |
@@ -206,6 +207,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
