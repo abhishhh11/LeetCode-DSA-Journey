@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -75,6 +76,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -128,11 +131,13 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
