@@ -56,6 +56,7 @@
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 ## String
@@ -90,6 +91,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -166,6 +168,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Number Theory
 |  |
 | ------- |
