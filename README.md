@@ -75,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -224,6 +225,14 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
 | 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
