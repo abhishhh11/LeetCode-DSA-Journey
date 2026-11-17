@@ -241,3 +241,4 @@
 | 7 | [Divide Array Into Equal Pairs](./LeetCode/Easy/Divide%20Array%20Into%20Equal%20Pairs) | [LeetCode](https://leetcode.com/problems/divide-array-into-equal-pairs/) | Easy | 08 Nov 2026 | 05:41 pm |
 | 8 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 09 Nov 2026 | 10:54 pm |
 | 9 | [Find Mismatched Segments Between Two Strings](./LeetCode/Medium/Find%20Mismatched%20Segments%20Between%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | Medium | 10 Nov 2026 | 12:33 pm |
+| 10 | [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) | [LeetCode](https://leetcode.com/problems/sudoku-solver/) | Hard | 17 Nov 2026 | 02:23 pm |
