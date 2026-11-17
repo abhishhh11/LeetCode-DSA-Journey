@@ -941,23 +941,25 @@
     "solved": 176
   },
   "syncedProblems": {
-    "LeetCode_Sudoku_Solver": true
+    "LeetCode_Sudoku_Solver": true,
+    "LeetCode_Combination_Sum_II": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 0,
+    "medium": 1,
     "hard": 1,
     "basic": 0
   },
   "todayProblems": [
-    "Sudoku Solver"
+    "Combination Sum II"
   ],
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-11-17",
-  "maxStreak": 1,
+  "lastSyncDate": "2026-11-18",
+  "maxStreak": 2,
   "activityHistory": {
-    "2026-11-17": 1
+    "2026-11-17": 1,
+    "2026-11-18": 1
   }
 }
