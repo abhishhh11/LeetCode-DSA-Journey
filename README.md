@@ -70,6 +70,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3856-trim-trailing-vowels](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3856-trim-trailing-vowels) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 ## Array
