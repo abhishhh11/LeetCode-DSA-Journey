@@ -70,7 +70,6 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
-| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3856-trim-trailing-vowels](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3856-trim-trailing-vowels) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 ## Array
@@ -244,3 +243,4 @@
 | 9 | [Find Mismatched Segments Between Two Strings](./LeetCode/Medium/Find%20Mismatched%20Segments%20Between%20Two%20Strings) | [LeetCode](https://leetcode.com/problems/find-mismatched-segments-between-two-strings/) | Medium | 10 Nov 2026 | 12:33 pm |
 | 10 | [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) | [LeetCode](https://leetcode.com/problems/sudoku-solver/) | Hard | 17 Nov 2026 | 02:23 pm |
 | 11 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 18 Nov 2026 | 01:13 am |
+| 12 | [Minimum Number of Changes to Make Binary String Beautiful](./LeetCode/Medium/Minimum%20Number%20of%20Changes%20to%20Make%20Binary%20String%20Beautiful) | [LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium | 18 Nov 2026 | 11:11 am |
