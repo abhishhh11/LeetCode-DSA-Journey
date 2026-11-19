@@ -20,6 +20,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2427-number-of-common-factors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2485-find-the-pivot-integer) |
@@ -58,6 +59,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 ## String
@@ -98,6 +100,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -179,6 +182,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
 ## Number Theory
 |  |
 | ------- |
