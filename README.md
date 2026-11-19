@@ -98,6 +98,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -153,12 +154,14 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
