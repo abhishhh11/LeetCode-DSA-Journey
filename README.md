@@ -74,6 +74,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3856-trim-trailing-vowels](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3856-trim-trailing-vowels) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
@@ -161,6 +162,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2785-sort-vowels-in-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
