@@ -29,6 +29,7 @@
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -112,6 +113,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3895-count-digit-appearances](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3895-count-digit-appearances) |
 ## Pigeonhole Principle
@@ -187,10 +189,12 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2427-number-of-common-factors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -203,6 +207,7 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2427-number-of-common-factors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
