@@ -10,6 +10,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0633-sum-of-square-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1227-airplane-seat-assignment-probability) |
 | [1492-the-kth-factor-of-n](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1492-the-kth-factor-of-n) |
@@ -144,6 +145,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -156,6 +158,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
