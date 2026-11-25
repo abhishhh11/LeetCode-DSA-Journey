@@ -63,6 +63,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3941-password-strength](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -110,6 +111,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -153,6 +155,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -163,6 +166,7 @@
 | [0633-sum-of-square-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +186,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
@@ -202,6 +207,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2364-count-number-of-bad-pairs) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Number Theory
 |  |
 | ------- |
