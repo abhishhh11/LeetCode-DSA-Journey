@@ -11,6 +11,7 @@
 | [0319-bulb-switcher](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1227-airplane-seat-assignment-probability) |
 | [1492-the-kth-factor-of-n](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1492-the-kth-factor-of-n) |
@@ -138,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String Matching
@@ -283,6 +285,10 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
 | 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
