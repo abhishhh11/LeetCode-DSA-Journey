@@ -100,6 +100,7 @@
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1395-count-number-of-teams](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1395-count-number-of-teams) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -134,6 +135,7 @@
 | [0688-knight-probability-in-chessboard](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1227-airplane-seat-assignment-probability) |
+| [1395-count-number-of-teams](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1395-count-number-of-teams) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Bit Manipulation
@@ -289,6 +291,14 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
 | 3 | [Find if Digit Game Can Be Won](./LeetCode/Easy/Find%20if%20Digit%20Game%20Can%20Be%20Won) | [LeetCode](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | Easy | 26 Oct 2026 | 01:38 pm |
 | 4 | [Number of Ways to Buy Pens and Pencils](./LeetCode/Medium/Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | Medium | 26 Oct 2026 | 02:47 pm |
