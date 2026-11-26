@@ -29,6 +29,7 @@
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3360-stone-removal-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -51,6 +52,7 @@
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3360-stone-removal-game](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3360-stone-removal-game) |
 ## Hash Table
 |  |
 | ------- |
