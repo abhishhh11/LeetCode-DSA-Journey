@@ -49,6 +49,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -80,6 +81,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2390-removing-stars-from-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3856-trim-trailing-vowels](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/3856-trim-trailing-vowels) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/abhishhh11/LeetCode-DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
